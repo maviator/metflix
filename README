@@ -1,0 +1,11 @@
+Metflix: Movie recommendations engines
+
+This is a project that I am started to test and compare different recommendation systems methods. This project is also my reason to learn about how to deploy models as a service (MaaS).
+
+The goal is to implement the following models:
+- Popular : recommending the most popular movies for a user or a selected movie
+- UBCF : User based collaborative filtering
+- IBCF : Item based collaborative filtering
+- ALS : Alternate least squares for matrix factorization
+
+Additionaly, I will be looking on how to deploy the built model as a service and create a web-based service that will recommend similar movies to a selected movie or recommendation after rating some few movies.
