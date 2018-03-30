@@ -2,3 +2,6 @@
 *.zip
 *~
 *-checkpoint.ipynb
+*.npy
+*.npz
+*.pkl
